@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Αναστασιος Vlachos"
+title                    : "Anastasios Vlachos"
 title_separator          : "-"
 name                     : &name "Anastasios Vlachos"
 description              : &description "personal description"
