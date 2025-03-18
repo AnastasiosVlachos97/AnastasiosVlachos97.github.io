@@ -11,7 +11,7 @@ redirect_from:
 
 About me
 ======
-I am a Master's student at the Swiss Federal Institute of Technology, Z&uumlrich (ETH Z&uumlrich), specializing in Systems and Control. Previously, I obtained the Diploma in Electrical and Computer Engineering from the National Technical University of Athens (NTUA). 
+I am a Master's student at the Swiss Federal Institute of Technology, Zürich (ETH Zürich), specializing in Systems and Control. Previously, I obtained my Diploma in Electrical and Computer Engineering from the National Technical University of Athens (NTUA). 
 
 Currently, I am conducting my Master's Thesis at the Automatic Control Laboratory (IfA), where I study the suboptimality of constrained tracking problems. My primary research interests include online control, distributed control, and reinforcement learning.
 
