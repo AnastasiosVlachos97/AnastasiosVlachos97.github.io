@@ -4,9 +4,9 @@ authors: "A. Vlachos, A. Tsiamis, A. Karapetyan, E. C. Balta, J. Lygeros"
 venue: "IEEE 63rd Conference on Decision and Control (CDC)"
 date: 2025-02-26
 category: conferences
-# description: "This paper presents a novel approach to residual learning for pedestrian tracking."
-# pdf: "files/residual-learning.pdf"
+# paperurl: "files/residual-learning.pdf"
 doi: "10.1109/CDC56724.2024.10886314"
+# slidesurl: "files/presentation.pdf"
 # collection: publications
 # category: manuscripts
 # permalink: /publication/2009-10-01-paper-title-number-1
