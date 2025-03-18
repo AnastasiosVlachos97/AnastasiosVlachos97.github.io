@@ -1,10 +1,12 @@
 ---
 title: "Online Residual Learning from Offline Experts for Pedestrian Tracking"
-authors: "Anastasios Vlachos, Anastasios Tsiamis, Aren Karapetyan, Efe Balta, John Lygeros"
-date: 2024-9-6
+authors: "A. Vlachos, A. Tsiamis, A. Karapetyan, E. C. Balta, J. Lygeros"
+venue: "IEEE 63rd Conference on Decision and Control (CDC)"
+date: 2025-02-26
 category: conferences
-doi: https://doi.org/10.48550/arXiv.2409.04069
-citation: 'A. Vlachos, A. Tsiamis, A. Karapetyan, E. C. Balta and J. Lygeros, "Online Residual Learning from Offline Experts for Pedestrian Tracking," 2024 IEEE 63rd Conference on Decision and Control (CDC), Milan, Italy, 2024, pp. 3390-3395'
+# description: "This paper presents a novel approach to residual learning for pedestrian tracking."
+# pdf: "files/residual-learning.pdf"
+doi: "10.1109/CDC56724.2024.10886314"
 # collection: publications
 # category: manuscripts
 # permalink: /publication/2009-10-01-paper-title-number-1
