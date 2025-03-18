@@ -24,9 +24,9 @@ author:
   avatar           : "me_profile_4.jpeg"
   name             : "Anastasios Vlachos"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Zurich, Switzerland"
-  employer         : "ETH Zurich"
+  bio              : "Master's Student, ETH Z\"urich"
+  location         : "Z\"urich, Switzerland"
+  employer         : "ETH Z\"urich"
   uri              : # URL
   email            : "avlachos.ethz.ch" 
 
