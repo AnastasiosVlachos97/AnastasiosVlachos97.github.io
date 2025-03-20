@@ -1,6 +1,6 @@
 ---
 title: "Efficient Stochastic Computing FIR Filtering Using Sigma-Delta Modulated Signals"
-authors: "A. Vlachos, N. Temenos, P. P. Sotiriadis"
+authors: "N. Temenos, A. Vlachos, P. P. Sotiriadis"
 venue: "Technologies 10 (1), 14"
 date: 2022-01-20
 category: journals
